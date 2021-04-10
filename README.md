@@ -1,5 +1,5 @@
 # SDLC Activity Based Learning
-# MINI POLLING SYSTEM
+
 Mini Project
 
 
