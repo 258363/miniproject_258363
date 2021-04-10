@@ -4,7 +4,7 @@ Mini Project
 
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
+gg|----------|-------|--------------
 
 
 ## Folder Structure
