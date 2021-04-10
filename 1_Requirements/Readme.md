@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
- --- TBD 
+Parking System is based on the concept of managing parking record. This mini project contains limited features like creating, reading,deleting of records. This project is helpful for managing parking information by adding, updating, removing, viewing and searching for details. 
 
 ## Research
 ![Description](Link to Pic)
