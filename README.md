@@ -1,7 +1,7 @@
 # SDLC Activity Based Learning
 MINI POLLING SYSTEM
 Mini Project
-Visit [Pages for Report -optional](using github.io option)
+
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
