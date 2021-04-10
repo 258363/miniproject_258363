@@ -5,7 +5,7 @@ Mini Project
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-`3_Implementation`|
+tbd|
 
 ## Folder Structure
 Folder             | Description
