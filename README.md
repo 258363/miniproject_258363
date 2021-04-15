@@ -5,7 +5,7 @@ Parking System is based on the concept of managing parking record. This mini pro
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-tbd|
+
 
 ## Folder Structure
 Folder             | Description
