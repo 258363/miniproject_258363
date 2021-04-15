@@ -8,29 +8,27 @@ Here User can add Vehicle detail (Vehicle Number) in the program and it’s not 
 ## Defining Our System
     -- 
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+
 
 # 4W&#39;s and 1&#39;H
 
 ## Who:
+People who own a vehicle and have need for parking management.
 
-**TBD**
 
 ## What:
-
-**TBD**
+ Traditional parking management systems are mostly physical record based and are not very useful
 
 ## When:
 
-**TBD**
+Everytime we need to park our vehicles we need parking space and proper management of parking space.
 
 ## Where:
-
-**TBD**
+It can be used at any parking lot having necessary resources.
 
 ## How:
 
-**TBD**
+This management system helps to keep track of all the vehicles and their details which can be used as per the requirements.
 
 # Detail requirements
 ## High Level Requirements:
