@@ -6,7 +6,7 @@ Parking System is based on the concept of managing parking record. This mini pro
 ## Cost and Features
 Here User can add Vehicle detail (Vehicle Number) in the program and it’s not time-consuming. This System makes easy to store records of each(Arrival & Departures of vehicles). This mini project is easy to operate and understand by the users. This simple mini project in C, built as a console application without using any graphics features.
 ## Defining Our System
-    -- 
+    Now a days in parkings are maintained just with the tokens and they have records the vehicle details in notebooks.Because of this it is difficult to find the details of particular vehicle but using a parking management system it is easy .
 ## SWOT ANALYSIS
 
 
