@@ -1,5 +1,3 @@
-# SDLC Activity Based Learning
-
 # Vehicle parking System
 
 
